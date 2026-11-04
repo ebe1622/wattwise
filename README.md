@@ -1,5 +1,5 @@
 #WattWise ⚡
-Smart Energy Monitoring & Optimization for Air Conditioning Systems#
+#Smart Energy Monitoring & Optimization for Air Conditioning Systems
 
 WattWise is an IoT-based smart energy monitoring and optimization platform designed to reduce unnecessary electricity consumption in air conditioning systems.
 
