@@ -1,5 +1,5 @@
-#WattWise#⚡
-Smart Energy Monitoring & Optimization for Air Conditioning Systems
+#WattWise⚡
+__Smart Energy Monitoring & Optimization for Air Conditioning Systems__
 
 WattWise is an IoT-based smart energy monitoring and optimization platform designed to reduce unnecessary electricity consumption in air conditioning systems.
 
@@ -7,7 +7,7 @@ By combining real-time energy monitoring, environmental data, and user-defined s
 
 The project aims to achieve up to 40% reduction in avoidable energy consumption through data-driven recommendations and optimized usage patterns.
 
-Overview
+__Overview__
 
 Air conditioning systems account for a significant portion of electricity consumption in residential and commercial spaces. A considerable amount of this energy is wasted due to unregulated usage, inefficient schedules, and a lack of awareness regarding actual consumption.
 
@@ -17,14 +17,14 @@ Using an ESP32-based monitoring system with non-invasive current sensing and vol
 
 The platform further integrates ambient temperature information through the OpenWeather API and considers user-defined schedules to generate contextual, personalized energy-saving insights.
 
-Objectives
+__Objectives__
 Reduce Energy Consumption: Target up to 40% reduction in avoidable electricity consumption.
 Smart Monitoring: Provide continuous visibility into air-conditioning energy usage.
 Identify Energy Waste: Detect unnecessary operation and inefficient usage patterns.
 Weather Integration: Incorporate ambient temperature data to understand cooling requirements.
 Schedule-Based Optimization: Analyze actual usage against user-defined operating schedules.
 Intelligent Insights: Transform collected data into meaningful recommendations for efficient energy management.
-Key Features
+__Key Features__
 1. Real-Time Energy Monitoring
 
 WattWise uses an ESP32-based monitoring unit to collect electricity consumption data from air conditioning systems.
@@ -64,7 +64,7 @@ Historical energy consumption data is used to understand recurring usage pattern
 
 This allows users to make informed decisions based on actual consumption rather than assumptions.
 
-Technology Stack
+__Technology Stack__
 Technology	Application
 ESP32	Embedded monitoring and wireless communication
 Non-invasive Current Sensor	Current measurement
@@ -88,10 +88,10 @@ The targeted reduction will be evaluated through comparisons between baseline co
 
 Actual savings depend on existing usage patterns, environmental conditions, appliance efficiency, and user behavior.
 
-Project Vision
+__Project Vision__
 
 WattWise aims to transform conventional air-conditioning usage into an intelligent, data-driven process.
 
 By bringing together IoT-based energy monitoring, environmental awareness, and algorithmically generated insights, the platform empowers users to understand their consumption, identify inefficiencies, and make smarter energy decisions.
 
-WattWise — Making Every Watt Count.
+__WattWise — Making Every Watt Count.__
